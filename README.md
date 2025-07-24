@@ -39,13 +39,6 @@
 
 ---
 
-### 🐍 Contribution Snake Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/siyani-sri/siyani-sri/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="mailto:siyanisrikanth@gmail.com">
